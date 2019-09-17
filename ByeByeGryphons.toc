@@ -1,0 +1,5 @@
+## Interface: 80200
+## Title: Gryphons Remover
+## Version: v8.2
+## Notes: Remove Gryphons from bar
+ByeByeGryphons.xml
